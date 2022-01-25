@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @0xn0v
-- 👀 I’m interested in a secure multi-chain world
+- 👋 seeker
+- 👀 securing a multi-chain world
 - 🌱 I’m currently learning 
 
 
