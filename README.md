@@ -1,6 +1,6 @@
 - 👋 seeker
 - 👀 securing a multi-chain world
-- 🌱 I’m currently learning 
+- 🌱 doing appsec
 
 
 
