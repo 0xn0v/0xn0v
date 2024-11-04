@@ -1,4 +1,4 @@
-- 🌱 doing appsec
+🌱 doing appsec
 
 
 
