@@ -1,5 +1,3 @@
-- 👋 seeker
-- 👀 securing a multi-chain world
 - 🌱 doing appsec
 
 
