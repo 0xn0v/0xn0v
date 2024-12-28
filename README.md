@@ -1,5 +1,8 @@
 🌱 doing appsec
+- - -
+my mind does this thing where it forgets, so i'm forcing it to learn the hard things from 0.
 
+let's see.
 
 
 <!---
