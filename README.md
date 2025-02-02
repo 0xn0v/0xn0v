@@ -1,8 +1,6 @@
-🌱 doing appsec
+🌱 doing appsec. sometims\es
 - - -
 re-learning the hard things from scratch.
-
-let's see.
 
 
 <!---
